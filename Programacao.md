@@ -1,16 +1,5 @@
 
-# Objetivo
-Desenvolver os princípios do raciocínio lógico, através da análise de
-problemas, com foco na construção de algoritmos e programas de
-computador eficientes em uma linguagem de alto nível.
 
-# Ementa
-Algoritmos, pseudocódigo, programação imperativa e estruturada. Tipos
-de dados fundamentais. Expressões e statements. Literais,
-identificadores, constantes e variáveis, declaração e atribuição. Coerção.
-Entrada e saída. Expressões numéricas e booleanas, controle de fluxo,
-condicionais e estruturas de repetições. Noções de vetores, matrizes e
-funções.
 
 # Aulas
 
